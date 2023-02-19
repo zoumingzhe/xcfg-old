@@ -1,0 +1,22 @@
+# python
+*.py[cod]
+
+# packages
+*.egg-info
+*.egg*
+dist
+build
+
+# setup
+/AUTHORS
+/ChangeLog
+
+# tox
+.tox
+.stestr
+.coverage
+.coverage.*
+
+# example
+
+# test
